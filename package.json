@@ -1,0 +1,10 @@
+{
+  "name": "Prelude",
+  "version": "1.0.0",
+  "description": "An easy-to-share URL based instant variable-name wish creating service.",
+  "main": "index.js",
+  "repository": "https://github.com/three38inc/prelude",
+  "author": "Jobith M Basheer <jobith@three38inc.com>",
+  "license": "MIT",
+  "private": false
+}
