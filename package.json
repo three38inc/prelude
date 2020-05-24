@@ -1,10 +1,22 @@
 {
-  "name": "Prelude",
+  "name": "prelude",
   "version": "1.0.0",
   "description": "An easy-to-share URL based instant variable-name wish creating service.",
-  "main": "index.js",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
   "repository": "https://github.com/three38inc/prelude",
   "author": "Jobith M Basheer <jobith@three38inc.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
