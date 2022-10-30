@@ -17,7 +17,7 @@
     "express-handlebars": "^4.0.4"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "bulma": "^0.8.2",
     "gulp": "^4.0.2",
     "gulp-nodemon": "^2.5.0",
